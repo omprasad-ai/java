@@ -1,0 +1,13 @@
+1.Diff between primitive and Non primitive Datatype
+
+A Predefined vs. User-defined:
+Primitive types are predefined; non-primitive types are user-defined (or part of Java's standard library classes).
+Value vs. Reference:
+Primitive types store actual values; non-primitive types store references to objects.
+Nullability:
+Primitive types cannot be null; non-primitive types can be null.
+Methods:
+Primitive types do not have methods; non-primitive types can call methods to perform operations.
+Memory Allocation:
+Primitive values are typically stored on the stack; non-primitive objects are stored on the heap.
+
